@@ -1,4 +1,4 @@
-# Running 3D Multi-person Pose Estimation from a Single RGB in google colab
+# Running 3D Multi-person Pose Estimation from a Single RGB image in google colab
 
 
 Running Three models in google colab at the same running session.
